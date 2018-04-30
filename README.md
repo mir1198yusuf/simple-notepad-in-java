@@ -16,6 +16,8 @@ Compile the project : javac Notepad_Implement.java
 
 Execute the project : java Notepad_Implement
 
+You can open or create and save a file with custom file extension
+
 Enjoy !
 
 Go through the code and any improvements is appreciated !
